@@ -1,4 +1,4 @@
-# Mysqlphplogin
+# Mysql-php-login
 An android login app with Mysql database on server to verify credentials.
 
 
